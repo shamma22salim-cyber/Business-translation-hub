@@ -58,7 +58,9 @@ function init(d) {
     "<h3>Flagged terms (" + fT.length + ")</h3><ul>" + fT.map(t => "<li><b>" + esc(t.en) + '</b> · <span lang="ar" dir="rtl">' + esc(t.ar) + '</span> <span class="b ' + cls(t.s) + '">' + esc(t.s) + '</span><br><span class="m">' + esc(t.note) + "</span></li>").join("") + "</ul>";
   $("a").innerHTML = "<h2>About this glossary</h2><p>" + esc(A.intro || "") + "</p><h3>Status labels</h3><ul>" + keys.map(k => "<li>" + esc(SL[k]) + "</li>").join("") + "<li>" + esc(M.flagLabel || "") + "</li></ul><p><b>" + esc(A.approvedNote || "") + "</b></p><h3>Definitions and examples</h3><p>" + esc(A.definitionsNote || "") + "</p><h3>Source key</h3><ul>" +
     Object.keys(SRC).map(k => "<li><b>" + esc(k) + "</b> = " + esc(SRC[k]) + " (s = slide)</li>").join("") + (M.sourceNotes || []).map(x => "<li>" + esc(x) + "</li>").join("") + '</ul><p class="m">' + T.length + " terms in " + TOP.length + " topics.</p>";
-  document.querySelectorAll("[data-t]").forEach(b => b.onclick = () => { document.querySelectorAll("[data-t]").forEach(x => x.setAttribute("aria-selected", x === b)); ["g", "r", "a"].forEach(i => $(i).hidden = i !== b.dataset.t); $("f").hidden = b.dataset.t !== "g"; window.scrollTo(0, 0); });
+  document.querySelectorAll("[data-t]").forEach(b => b.onclick = () => { document.querySelectorAll("[data-t]").forEach(x => x.setAttribute("aria-selected", x === b)); ["g", "p", "r", "a"].forEach(i => $(i).hidden = i !== b.dataset.t); $("f").hidden = b.dataset.t !== "g"; window.scrollTo(0, 0); });
+  window.GL = {T: T, SL: SL, norm: norm};
+  if (window.initPractice) window.initPractice();
   view();
 }
 

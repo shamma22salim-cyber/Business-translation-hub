@@ -5,7 +5,9 @@ The site is plain HTML, CSS and JavaScript. It needs no server code, no paid ser
 ## Files
 
 - index.html, style.css, app.js: the page. Normally not edited.
-- glossary.json: all terminology, review items and labels. This is the file instructors edit.
+- practice.js: the Translation Practice section. Normally not edited.
+- glossary.json: all terminology, review items and labels. This is a file instructors edit.
+- exercises.json: all practice exercises and reference translations. This is a file instructors edit.
 - GUIDE.md: how to add terms. PUBLISHING.md: this file.
 - .nojekyll: an empty file that tells GitHub Pages to serve the files as they are. Keep it.
 
@@ -20,9 +22,13 @@ The site is plain HTML, CSS and JavaScript. It needs no server code, no paid ser
 
 GitHub may move menu items over time. If a menu differs, see GitHub's own Pages documentation.
 
+## Replace an existing site
+
+If the earlier version is already on GitHub Pages, upload all files from the zip into the same repository and choose to replace the existing files. Keep the `.nojekyll` file. The address does not change.
+
 ## Update later
 
-Edit glossary.json in the repository (see GUIDE.md) and commit the change. The site updates after a minute or two. If you still see old content, refresh the page twice.
+Edit glossary.json or exercises.json in the repository (see GUIDE.md) and commit the change. The site updates after a minute or two. If you still see old content, refresh the page twice.
 
 ## Preview on your own computer
 
@@ -37,6 +43,7 @@ Then open http://localhost:8000 in a browser.
 ## Troubleshooting
 
 - **"Could not load glossary.json":** the file is missing, in a different folder, or the page was opened by double-click.
+- **"exercises.json is not valid JSON" or "Could not load exercises.json":** the same checks apply as for glossary.json.
 - **"glossary.json is not valid JSON":** a comma, bracket or quote is wrong. Look near the last entry you edited.
 - **404 page:** Pages is not switched on yet, or the files are inside a subfolder. index.html must be at the top level of the repository.
 - **Blank list, no message:** JavaScript is turned off or app.js was not uploaded.

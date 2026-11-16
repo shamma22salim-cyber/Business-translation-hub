@@ -1,0 +1,614 @@
+{
+ "meta": {
+  "updated": "2026-11-16",
+  "excluded": [
+   "Banking A-E.docx, English passages: no task and no Arabic version in the file.",
+   "Presentation1.pptx, slides 7–8 (business case studies): written-response tasks, not translation. Slide 9 lists exam question types only.",
+   "Presentation1.pptx, slides 3–6 and 17: translation-theory content (deontology, Berman, Venuti), not exercises.",
+   "Employment.pptx, slide 5: a video, not accessible.",
+   "Islamic Banking.docx: no text could be read."
+  ]
+ },
+ "sets": [
+  {
+   "id": "emp-s2",
+   "title": "Employment: translate the terms (1)",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slide 2",
+   "kind": "terms",
+   "direction": "en-ar",
+   "instruction": "Translate to Arabic",
+   "instructionStatus": "stated",
+   "note": "The TT (target) column is empty in the course file, so there are no reference translations.",
+   "items": [
+    {
+     "text": "Job market"
+    },
+    {
+     "text": "employ"
+    },
+    {
+     "text": "employment"
+    },
+    {
+     "text": "insurance"
+    },
+    {
+     "text": "mitigate"
+    },
+    {
+     "text": "Finanical crisis",
+     "note": "Spelled “Finanical” in the course file.",
+     "hintTerms": [
+      "financial crisis"
+     ]
+    },
+    {
+     "text": "Cope with"
+    },
+    {
+     "text": "subsidy"
+    },
+    {
+     "text": "rationalization"
+    },
+    {
+     "text": "employability"
+    },
+    {
+     "text": "recruitment"
+    },
+    {
+     "text": "downsizing"
+    }
+   ]
+  },
+  {
+   "id": "emp-s3",
+   "title": "Employment: translate the terms (2)",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slide 3",
+   "kind": "terms",
+   "direction": "en-ar",
+   "instruction": "Translate to Arabic",
+   "instructionStatus": "stated",
+   "note": "The TT (target) column is empty in the course file, so there are no reference translations.",
+   "items": [
+    {
+     "text": "deregulation"
+    },
+    {
+     "text": "sack"
+    },
+    {
+     "text": "tenure"
+    },
+    {
+     "text": "measures"
+    },
+    {
+     "text": "unemployment"
+    },
+    {
+     "text": "initiative"
+    },
+    {
+     "text": "payable"
+    },
+    {
+     "text": "Job position"
+    },
+    {
+     "text": "wage"
+    },
+    {
+     "text": "Labor flexibility"
+    },
+    {
+     "text": "Labor force"
+    }
+   ]
+  },
+  {
+   "id": "emp-s4",
+   "title": "Employment: identify and correct the errors",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slide 4",
+   "kind": "correction",
+   "direction": "en-ar",
+   "instruction": "Identify and correct the errors in the following Arabic translations",
+   "instructionStatus": "stated",
+   "note": "Write a corrected Arabic translation. The course file has no answer key, so there are no reference translations.",
+   "items": [
+    {
+     "text": "The unemployed protested against the insufficient subsidies.",
+     "given": "احتج الموظفون في القطاع الحكومي على عدم كفاية المرتبات الشهرية.",
+     "label": "ST"
+    },
+    {
+     "text": "The committee discussed the delay in paying the employees’ salaries.",
+     "given": "قررت اللجنة مناقشة عدم دفع رواتب الموظفين.",
+     "label": "ST2"
+    },
+    {
+     "text": "Financial performance measures help evaluate the progress achieved in the company’s performance.",
+     "given": "تساعد الإجراءات المالية في تقييم عوائق تحقيق التقدم في أداء الشركة.",
+     "label": "ST3"
+    }
+   ]
+  },
+  {
+   "id": "emp-s6",
+   "title": "Employment: Activity (downsizing)",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slide 6",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "note": "Labelled “Activity” on the slide. No task is written on the slide; the deck is titled “From English to Arabic”. The direction shown is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "text": "Downsizing is the intentional process of reducing the scale, size, or complexity of an organization or personal life to improve efficiency and reduce costs. In the corporate world, it often involves permanent workforce reductions and operational restructuring to keep a business financially viable during economic shifts. On a personal level, downsizing typically means moving to a smaller home and parting with excess belongings to embrace a simpler, more manageable lifestyle. Ultimately, whether applied to a multi-million dollar company or an individual household, the core objective of downsizing is the same: shedding unnecessary weight to create a more streamlined, agile, and sustainable path forward."
+    }
+   ]
+  },
+  {
+   "id": "emp-s9",
+   "title": "Employment: Activity (employment systems)",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slide 9",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "note": "Labelled “Activity” on the slide. No task is written on the slide; the deck is titled “From English to Arabic”. The direction shown is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "text": "The centrality of labor flexibility, wage costs, and unemployment in debates over European economic development puts employment systems at the heart of any putative Europeanization of national economics. An employment system refers to the interaction of various formative institutions making up the national and sectoral profile of the labor force. These institutions making comprise the training and educational processes, the legal and industrial relations requlations, the organizational structure and practices of industry, and the politics of the workplace."
+    }
+   ]
+  },
+  {
+   "id": "emp-texts",
+   "title": "Employment: course texts",
+   "topic": "Employment and labour",
+   "source": "Employment.pptx, slides 7, 8, 10",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "note": "These slides have no task written on them. Included as texts only; the direction shown is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "label": "Costs of Downsizing",
+     "text": "Downsizing is often very costly to a corporation. More than 50 percent of companies that downsize fall to reach their financial objectives. More than one million people are permanently laid off each year. For example, Boeing eleminated 60,000 jobs between 1989 and 1997. The company’s orders fofr jets icreased from two hundred to nine hundred within two years. The company had had a difficult time hiring qualified people."
+    },
+    {
+     "label": "Job Market",
+     "text": "A number of measures were attempted in order to combat the crisis in the job market. Thus, employment measures and unemployment insurance were improved, as well as measures for those who had lost their jobs. The parliament adopted the “law for employment initiative.” The aim of the law is to mitigate the impact of the financial crisis on the unemployed, to create means by which job posititions can be maintained, and to give a larger number of people the opportunity to participate in employment activities."
+    },
+    {
+     "label": "UK and Redundancy",
+     "text": "Redundancy is a form of dismissal from your job. It happens when employers need to reduce their workforce.\nIf you’re being made redundant, you might be eligible for certain things, including:\nredundancy pay\na notice period\na consultation with your employer\nthe option to move into a different job\ntime off to find a new job"
+    }
+   ]
+  },
+  {
+   "id": "p1-stocks",
+   "title": "The Basics of Investing in Stocks",
+   "topic": "Stock market and investing",
+   "source": "Presentation1.pptx, slides 10–14 (source link on slide 15)",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "Translate Between Arabic to English",
+   "instructionStatus": "stated",
+   "note": "The slide heading says Arabic to English, but the text is in English. The direction shown (English to Arabic) is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "label": "Slide 10",
+     "text": "The Basics of Investing In Stocks\nWhat Are Stocks?\nStocks are a type of security that gives stockholders a share of ownership in a company.\nCompanies sell shares typically to gain additional money to grow the company. This is called the initial public offering (IPO). After the IPO, stockholders can resell shares on the stock market.\nStock prices rise or fall and are typically driven by expectations of the corporation’s earnings, or profits."
+    },
+    {
+     "label": "Slide 11",
+     "text": "Types Of Stocks\nThere are two main kinds of stocks, common stock and preferred stock.\nCommon Stocks\nCommon stock entitles owners to vote at shareholder meetings and receive dividends.\nPreferred Stocks\nPreferred stockholders usually don’t have voting rights but they receive dividend payments before common stockholders do, and have priority over common stockholders if the company goes bankrupt and its assets are liquidated.\nGrowth Stocks\nGrowth stocks have earnings growing at a faster rate than the market average. They rarely pay dividends and investors buy them in the hope of capital appreciation. A start-up technology company is likely to be a growth stock."
+    },
+    {
+     "label": "Slide 12",
+     "text": "Types Of Stocks\nIncome Stocks\nIncome stocks pay dividends consistently. Dividends are a portion of the company’s earnings paid to shareholders. Investors buy them for the income they generate. An established utility company is likely to be an income stock.\nValue Stocks\nValue stock shave a low price-to-earnings (PE) ratio, meaning they are cheaper to buy than stocks with a higher PE. Value stocks may be growth or income stocks, and their low PE ratio may reflect the fact that they have fallen out of favor with investors for some reason. People buy value stocks in the hope that the market has overreacted and that the stock’s price will rebound.\nBlue-Chip Stocks\nBlue-chip stocks are shares in large, well-known companies with a solid history of growth. They generally pay dividends."
+    },
+    {
+     "label": "Slide 13",
+     "text": "Potential Benefits Of Investing In Stocks\nThe potential benefits of investing in stocks include:\nPotential capital gains from owning a stock that grows in value over time\nPotential income from dividends paid by the company\nLower tax rates on long-term capital gains"
+    },
+    {
+     "label": "Slide 14",
+     "text": "Potential Risks Of Stocks\nThe potential risks of investing in stocks include:\nShare prices for a company falling, even to zero\nIf the company goes broke, you may be the last to be paid, so you may not get your money back\nThe value of your shares will go up and down, and the dividend may vary"
+    }
+   ]
+  },
+  {
+   "id": "p1-report",
+   "title": "Report on workforce reduction requests",
+   "topic": "Employment and labour",
+   "source": "Presentation1.pptx, slide 2",
+   "kind": "text",
+   "direction": "ar-en",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "note": "The slide gives a glossary (English terms only) beside this Arabic text, but no written task. Included as a text only; the direction shown is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "text": "تقرير جديد يكشف: كيف تم التعامل مع طلبات تقليص العمالة في 2025؟\nالتقرير السنوي للاتحاد العام لعمال سلطنة عمان يكشف رفض 87 طلبًا لتقليص العمالة لأسباب اقتصادية، وحماية 2035 عاملًا عمانيًا، مقابل الموافقة على إنهاء خدمات 28 عمانيًا و485 وافدًا فقط",
+     "slideGlossary": [
+      "Report",
+      "Workforce reduction/ downsizing",
+      "General Federation of Oman Workers",
+      "Termination of service"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mk",
+   "title": "Marketing paragraph",
+   "topic": "Marketing",
+   "source": "Marketing.docx",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "note": "The file has no task and no glossary. Included as a text only; the direction shown is an assumption for the instructor to confirm.",
+   "items": [
+    {
+     "text": "Marketing is an important part in organizational activities in the organization. Organizations must create products and offer necessary and appropriate services for customers/consumers to achieve their ambitions/needs. Marketing also can offer employment chances and create jobs as approximately two thirds of the organization work in marketing."
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "title": "Cryptocurrency Trading: Opportunities and Risks",
+   "topic": "Cryptocurrency trading",
+   "source": "Cryptocurrency Trading.docx",
+   "kind": "text",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "referenceNote": "The reference is the Arabic version in the same file. The file does not say it is an approved answer.",
+   "note": "The file has no task. The English text ends “(BTC/USD.” without the closing bracket; it is shown as written. The file also has an English–Arabic glossary, which is already in the Glossary tab.",
+   "items": [
+    {
+     "text": "Cryptocurrency Trading: Opportunities and Risks",
+     "reference": {
+      "text": "تداول العملات المشفرة: الفرص والمخاطر",
+      "from": "Cryptocurrency Trading.docx"
+     }
+    },
+    {
+     "text": "The global financial landscape has transformed significantly with the rise of digital assets. Cryptocurrency trading, which involves buying and selling digital currencies to profit from short-term price fluctuations, has moved from a niche hobby into mainstream finance. Unlike traditional stock markets that operate within strict business hours, the cryptocurrency market is decentralized and runs twenty-four hours a day, seven days a week. This continuous accessibility offers unprecedented flexibility for traders, but it also demands constant vigilance.",
+     "reference": {
+      "text": "لقد شهد المشهد المالي العالمي تحولاً كبيراً مع صعود الأصول الرقمية. ولم يعد تداول العملات المشفرة —الذي ينطوي على شراء العملات الرقمية وبيعها للربح من تقلبات الأسعار قصيرة الأجل— مجرد هواية لفئة محدودة، بل انتقل إلى قلب القطاع المالي العام. وبخلاف أسواق الأسهم التقليدية التي تعمل ضمن ساعات عمل رسمية صارمة، فإن سوق العملات المشفرة يتسم باللامركزية، ويعمل على مدار الساعة طوال أيام الأسبوع. ويمنح هذا التوافر المستمر مرونة غير مسبوقة للمتداولين، لكنه يتطلب في الوقت نفسه يقظة دائمة.",
+      "from": "Cryptocurrency Trading.docx"
+     }
+    },
+    {
+     "text": "To navigate this market successfully, participants must understand its core mechanisms. Traders typically use online platforms known as cryptocurrency exchanges to execute their orders. Transactions are carried out via trading pairs, such as Bitcoin against the US Dollar (BTC/USD.",
+     "reference": {
+      "text": "ولكي يتمكن المشاركون من دخول هذا السوق بنجاح، يتعين عليهم فهم آلياته الأساسية. وعادةً ما يستخدم المتداولون منصات عبر الإنترنت تُعرف باسم \"بورصات العملات المشفرة\" لتنفيذ أوامرهم. وتُجرى المعاملات من خلال \"أزواج التداول\"، مثل البيتكوين مقابل الدولار الأمريكي (BTC/USD).",
+      "from": "Cryptocurrency Trading.docx"
+     }
+    },
+    {
+     "text": "However, the allure of high returns comes with substantial danger. Cryptocurrencies are notorious for their extreme volatility, meaning an asset's value can plummet or skyrocket within minutes based on regulatory news, technological updates, or social media speculation.",
+     "reference": {
+      "text": "ومع ذلك، فإن جاذبية العوائد المرتفعة تنطوي على مخاطر جسيمة؛ فالعملات المشفرة معروفة بتقلباتها الشديدة، مما يعني أن قيمة الأصل يمكن أن تنخفض أو ترتفع بشكل حاد في غضون دقائق بناءً على الأخبار التنظيمية، أو التحديثات التقنية، أو المضاربات عبر وسائل التواصل الاجتماعي",
+      "from": "Cryptocurrency Trading.docx"
+     }
+    }
+   ]
+  },
+  {
+   "id": "msx",
+   "title": "Muscat Stock Exchange overview",
+   "topic": "Muscat Stock Exchange",
+   "source": "Muscat Stock Exchange overview.docx",
+   "kind": "text",
+   "direction": "ar-en",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "referenceNote": "The reference is the English version in the same file. The file does not say it is an approved answer.",
+   "note": "The file has no task. The Arabic and English versions differ in several places (see the Review tab); they are shown as written. The web link in the English version is omitted.",
+   "items": [
+    {
+     "label": "Overview",
+     "text": "نظرة عامة على بورصة مسقط (MSX)\nتعتبر بورصة مسقط السوق المالي الرسمي في سلطنة عُمان لتداول الأوراق المالية والأسهم.\nتأسيس السوق:\nبدأ كـ \"سوق مسقط للأوراق المالية\" في 21 يونيو 1988.\nتحول إلى شركة مسقط للبورصة (ش.م.ع.ع) ضمن تطوير قطاع أسواق المال.\nساعات التداول:\nتبدأ جلسات التداول من الساعة 9:30 صباحاً\nمؤشرات السوق:\nيعد مؤشر بورصة مسقط MSX30 المقياس الرئيسي لحركة الأسهم النشطة",
+     "reference": {
+      "text": "Muscat Stock Exchange (MSX) Overview\nThe MSX is the official financial market for trading securities and equities (bonds and stocks) in the Sultanate of Oman.\nMarket History:\nEstablished in June 1988 as the Muscat Securities Market.\nTransformed into a closed joint-stock company (MSX) in 2021.\nTrading Hours:\nOfficial trading sessions start daily at 9:30 AM.\nMain Indicator:\nThe MSX30 Index tracks the top 30 most liquid stocks.",
+      "from": "Muscat Stock Exchange overview.docx"
+     }
+    },
+    {
+     "label": "Steps to start investing",
+     "text": "خطوات البدء والاستثمار\nاختر وسيطاً مالياً:\nالتعامل يتم عبر شركات الوساطة المرخصة في السلطنة\nفتح حساب تداول:\nمراجعة شركة الوساطة لاستكمال مستندات التسجيل وفتح الحساب.\nمتابعة البيانات:\nاستخدام التطبيق الذكي أو الموقع الرسمي لمتابعة الأسعار لحظياً",
+     "reference": {
+      "text": "Steps to Start Investing\nSelect a broker:\nTrading requires an authorized brokerage firm in Oman.\nOpen an account:\nSubmit registration documents through your chosen broker.\nMonitor data:\nUse the official MSX app for real-time price updates.",
+      "from": "Muscat Stock Exchange overview.docx"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bea",
+   "title": "Banking terms (English to Arabic)",
+   "topic": "Banking and finance",
+   "source": "Banking English to Arabic.docx",
+   "kind": "terms",
+   "direction": "en-ar",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "referenceNote": "The reference is the Arabic term listed in the same file. The file does not say it is an approved answer.",
+   "note": "The file lists English terms with Arabic equivalents and has no written task.",
+   "items": [
+    {
+     "text": "brokers",
+     "reference": {
+      "text": "سماسرة / وسطاء ماليون",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "raise money",
+     "reference": {
+      "text": "يجمع الأموال",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "home mortgages",
+     "reference": {
+      "text": "الرهون العقارية السكنية",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "attract clients",
+     "reference": {
+      "text": "يجذب العملاء",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "financial models",
+     "reference": {
+      "text": "النماذج المالية",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "electronic banking",
+     "reference": {
+      "text": "الخدمات المصرفية الإلكترونية",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "fees",
+     "reference": {
+      "text": "رسوم",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "financial advisor",
+     "reference": {
+      "text": "مستشار مالي",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "national bank",
+     "reference": {
+      "text": "بنك وطني",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "banking day",
+     "reference": {
+      "text": "يوم عمل مصرفي",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "student loans",
+     "reference": {
+      "text": "قروض طلابية",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "hedge funds",
+     "reference": {
+      "text": "صناديق التحوط",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "certificate of deposit",
+     "reference": {
+      "text": "شهادة إيداع",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "direct deposit",
+     "reference": {
+      "text": "إيداع مباشر",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "interest rate",
+     "reference": {
+      "text": "سعر الفائدة",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "commission fees",
+     "reference": {
+      "text": "العمولة",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "sell assets",
+     "reference": {
+      "text": "يبيع الأصول",
+      "from": "Banking English to Arabic.docx"
+     }
+    },
+    {
+     "text": "payment due date",
+     "reference": {
+      "text": "تاريخ استحقاق الدفع",
+      "from": "Banking English to Arabic.docx"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bae",
+   "title": "Banking terms (Arabic to English)",
+   "topic": "Banking and finance",
+   "source": "Banking A-E.docx",
+   "kind": "terms",
+   "direction": "ar-en",
+   "instruction": "",
+   "instructionStatus": "unstated",
+   "referenceNote": "The reference is the TT (English) term in the same table. The file does not say it is an approved answer.",
+   "note": "The table is headed ST (Arabic) and TT (English) and has no written task.",
+   "items": [
+    {
+     "text": "تمويل الاستثمار",
+     "reference": {
+      "text": "investment finance",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "نمو اقتصادي",
+     "reference": {
+      "text": "economic growth",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "استثمار قصير الأجل",
+     "reference": {
+      "text": "short-term investment",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "تسهيلات مصرفية",
+     "reference": {
+      "text": "banking facilities",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "أصحاب ودائع محليين",
+     "reference": {
+      "text": "local depositors",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "اجتذاب مودعين",
+     "reference": {
+      "text": "attract depositors",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "صناعة مصرفية",
+     "reference": {
+      "text": "banking industry",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "منح تمويل",
+     "reference": {
+      "text": "grant finance",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "نمو مصرفي",
+     "reference": {
+      "text": "banking growth",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "جذب رؤوس الأموال",
+     "reference": {
+      "text": "attract capital",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "وفرة السيولة",
+     "reference": {
+      "text": "abundant liquidity",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "معدل الفائدة",
+     "reference": {
+      "text": "interest rate",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "خدمات استثمارية",
+     "reference": {
+      "text": "investment services",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "تطور مصرفي",
+     "reference": {
+      "text": "banking development",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "خدمات مالية",
+     "reference": {
+      "text": "financial services",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "وحدات مصرفية",
+     "reference": {
+      "text": "banking units",
+      "from": "Banking A-E.docx"
+     }
+    },
+    {
+     "text": "سلطات نقدية",
+     "reference": {
+      "text": "monetary authorities",
+      "from": "Banking A-E.docx"
+     }
+    }
+   ]
+  }
+ ]
+}

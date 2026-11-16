@@ -60,3 +60,38 @@ No entry is marked instructor-approved, because no file says that any translatio
 - **New source file:** add a short code and the file name to `meta.sources`, for example `"MK2": "Marketing 2.docx"`. Use the code in `source`.
 - **New discrepancy:** add an item to an existing group in `review`, or add a new group with a `title` and a list of `items`.
 - **Page title, About text:** edit `meta.title`, `meta.subtitle` and `meta.about`.
+
+## 6. Adding or changing practice exercises
+
+Practice exercises live in **exercises.json**. Use only exercises and texts from the course materials. Do not write new exercises or reference translations unless you are an instructor adding your own approved material.
+
+```json
+{
+ "id": "emp-s2",
+ "title": "Employment: translate the terms (1)",
+ "topic": "Employment and labour",
+ "source": "Employment.pptx, slide 2",
+ "kind": "terms",
+ "direction": "en-ar",
+ "instruction": "Translate to Arabic",
+ "instructionStatus": "stated",
+ "note": "",
+ "referenceNote": "",
+ "items": [
+  { "text": "Job market" },
+  { "label": "Slide 8", "text": "source text", "reference": { "text": "approved translation", "from": "file name" } }
+ ]
+}
+```
+
+| Field | Meaning |
+|---|---|
+| kind | `terms` (short term list), `text` (passage) or `correction` (each item also has `given`, the flawed translation to correct). |
+| direction | `en-ar` (English to Arabic) or `ar-en`. |
+| instruction / instructionStatus | `stated` if the course file writes the task, with the wording in `instruction`. Otherwise `unstated` and `instruction` empty. |
+| items[].reference | Include **only** if the course materials contain a reference translation. Without it, students see that no reference exists. |
+| items[].hintTerms | Optional. English glossary terms to use for hints when the source has a typo. |
+| items[].slideGlossary | Optional. Terms the slide lists beside the text. |
+| meta.excluded | The list shown under “Not included” on the Practice page. |
+
+Hints come from glossary.json automatically: the site finds glossary terms in the source text and checks whether the student's text contains the glossary equivalent. It does not grade and uses no AI. AI-suggested glossary terms are labelled “AI suggestion · not instructor-approved”.
