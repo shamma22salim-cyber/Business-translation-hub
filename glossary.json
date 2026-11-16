@@ -1,0 +1,1930 @@
+{
+ "meta": {
+  "title": "Arabic–English Business Glossary",
+  "subtitle": "University of Nizwa · Draft for instructor review · course materials only",
+  "updated": "2026-11-16",
+  "statusLabels": {
+   "C": "C: the Arabic and English are paired explicitly in a course file.",
+   "S": "S: the Arabic appears in a course text (usually a parallel version) but is not set out as a glossary pair. The pairing was made by the compiler.",
+   "AI": "AI: AI suggestion. The materials give no Arabic for this term."
+  },
+  "statusShort": {
+   "C": "course pair",
+   "S": "parallel course text",
+   "AI": "AI suggestion"
+  },
+  "flagLabel": "⚑: flagged for review. See the note on the term and the Review tab.",
+  "sources": {
+   "BEA": "Banking English to Arabic.docx",
+   "BAE": "Banking A-E.docx",
+   "CR": "Cryptocurrency Trading.docx",
+   "MSX": "Muscat Stock Exchange overview.docx",
+   "P1": "Presentation1.pptx",
+   "EM": "Employment.pptx",
+   "MK": "Marketing.docx"
+  },
+  "sourceNotes": [
+   "Islamic Banking.docx: no text could be read."
+  ],
+  "about": {
+   "intro": "Built only from the eight instructor-provided course files. Searches work in Arabic and English. Arabic search ignores diacritics and common letter variants.",
+   "approvedNote": "No entry is marked instructor-approved, because no file says that any translation is approved.",
+   "definitionsNote": "Shown only where the course text contains one, quoted from it. Nothing was written to fill gaps."
+  }
+ },
+ "topics": [
+  "Banking and finance",
+  "Stock market and investing",
+  "Muscat Stock Exchange",
+  "Cryptocurrency trading",
+  "Employment and labour",
+  "Marketing",
+  "Business case studies"
+ ],
+ "terms": [
+  {
+   "topic": "Banking and finance",
+   "en": "brokers",
+   "ar": "سماسرة / وسطاء ماليون",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA, MSX",
+   "note": "Two options in BEA. MSX uses the singular وسيطاً مالياً.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "raise money",
+   "ar": "يجمع الأموال",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "Verb given in third-person form.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "home mortgages",
+   "ar": "الرهون العقارية السكنية",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "attract clients",
+   "ar": "يجذب العملاء",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "financial models",
+   "ar": "النماذج المالية",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "electronic banking",
+   "ar": "الخدمات المصرفية الإلكترونية",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "fees",
+   "ar": "رسوم",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "financial advisor",
+   "ar": "مستشار مالي",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "national bank",
+   "ar": "بنك وطني",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking day",
+   "ar": "يوم عمل مصرفي",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "student loans",
+   "ar": "قروض طلابية",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "hedge funds",
+   "ar": "صناديق التحوط",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "certificate of deposit",
+   "ar": "شهادة إيداع",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "direct deposit",
+   "ar": "إيداع مباشر",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "interest rate",
+   "ar": "سعر الفائدة / معدل الفائدة",
+   "status": "C",
+   "flagged": true,
+   "source": "BEA, BAE",
+   "note": "BEA gives سعر الفائدة. BAE gives معدل الفائدة. Both kept; instructor to choose.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "commission fees",
+   "ar": "العمولة",
+   "status": "C",
+   "flagged": true,
+   "source": "BEA",
+   "note": "The Arabic has no equivalent of “fees”. Kept as in source.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "sell assets",
+   "ar": "يبيع الأصول",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "Verb given in third-person form.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "payment due date",
+   "ar": "تاريخ استحقاق الدفع",
+   "status": "C",
+   "flagged": false,
+   "source": "BEA",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "investment finance",
+   "ar": "تمويل الاستثمار",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "economic growth",
+   "ar": "نمو اقتصادي",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "short-term investment",
+   "ar": "استثمار قصير الأجل",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking facilities",
+   "ar": "تسهيلات مصرفية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "local depositors",
+   "ar": "أصحاب ودائع محليين",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "attract depositors",
+   "ar": "اجتذاب مودعين",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking industry",
+   "ar": "صناعة مصرفية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "grant finance",
+   "ar": "منح تمويل",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking growth",
+   "ar": "نمو مصرفي",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "attract capital",
+   "ar": "جذب رؤوس الأموال",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "abundant liquidity",
+   "ar": "وفرة السيولة",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "investment services",
+   "ar": "خدمات استثمارية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking development",
+   "ar": "تطور مصرفي",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "financial services",
+   "ar": "خدمات مالية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "banking units",
+   "ar": "وحدات مصرفية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "monetary authorities",
+   "ar": "سلطات نقدية",
+   "status": "C",
+   "flagged": false,
+   "source": "BAE",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "specialized banks",
+   "ar": "البنوك المتخصصة",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "industrial banks",
+   "ar": "البنوك الصناعية",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "provide advances and loans and assist industrialists"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "agricultural banks",
+   "ar": "البنوك الزراعية",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "grant short-term loans to farmers against crops as collateral"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "land banks",
+   "ar": "بنوك الأراضي",
+   "status": "AI",
+   "flagged": true,
+   "source": "BAE passage",
+   "note": "Literal rendering. An established Arabic term may differ. Instructor to confirm.",
+   "context": {
+    "type": "definition",
+    "text": "long-term loans against mortgage collateral secured by agricultural lands"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "advances",
+   "ar": "السلف",
+   "status": "AI",
+   "flagged": true,
+   "source": "BAE passage",
+   "note": "Banking sense in “advances and loans”. Confirm preferred term.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "short-term loans",
+   "ar": "قروض قصيرة الأجل",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "Follows the course pair استثمار قصير الأجل.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "long-term loans",
+   "ar": "قروض طويلة الأجل",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "Same pattern.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "collateral",
+   "ar": "ضمان",
+   "status": "AI",
+   "flagged": true,
+   "source": "BAE passage",
+   "note": "Context-dependent (ضمان / ضمانات / رهن).",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "mortgage collateral",
+   "ar": "الضمان الرهني",
+   "status": "AI",
+   "flagged": true,
+   "source": "BAE passage",
+   "note": "Confirm wording.",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "moneylenders",
+   "ar": "المقرضون",
+   "status": "AI",
+   "flagged": true,
+   "source": "BAE passage",
+   "note": "Register and connotation vary. Confirm.",
+   "context": {
+    "type": "example",
+    "text": "protected small farmers from exploitation by moneylenders"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "land reclamation",
+   "ar": "استصلاح الأراضي",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "for the purpose of land reclamation or the construction of buildings"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "central bank",
+   "ar": "البنك المركزي",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "The central bank examines loan applications"
+   }
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "loan applications",
+   "ar": "طلبات القروض",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Banking and finance",
+   "en": "reserves",
+   "ar": "الاحتياطيات",
+   "status": "AI",
+   "flagged": false,
+   "source": "BAE passage",
+   "note": "Bank reserves.",
+   "context": {
+    "type": "example",
+    "text": "recover when they face unexpected losses in reserves"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "stock(s)",
+   "ar": "الأسهم",
+   "status": "S",
+   "flagged": true,
+   "source": "P1 s10–16, MSX",
+   "note": "Arabic from the MSX Arabic text. P1 s16 lists STOCK and SHARE separately; both are usually سهم. Instructor to say whether a distinction is wanted.",
+   "context": {
+    "type": "definition",
+    "text": "a type of security that gives stockholders a share of ownership in a company"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "share(s)",
+   "ar": "الأسهم / سهم",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s10, s16",
+   "note": "See note on stock(s).",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "shareholder / stockholder",
+   "ar": "مساهم",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s10, s11, s16",
+   "note": "P1 uses both English forms.",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "stock market",
+   "ar": "سوق الأسهم",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s10, CR",
+   "note": "CR Arabic: أسواق الأسهم التقليدية for “traditional stock markets”.",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "security / securities",
+   "ar": "الأوراق المالية",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s10, MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "equities",
+   "ar": "الأسهم",
+   "status": "S",
+   "flagged": true,
+   "source": "MSX",
+   "note": "English only: “securities and equities (bonds and stocks)”. See Review tab.",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "bonds",
+   "ar": "السندات",
+   "status": "AI",
+   "flagged": true,
+   "source": "MSX",
+   "note": "Appears only in the English parenthetical. No Arabic counterpart in the Arabic text.",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "initial public offering (IPO)",
+   "ar": "الطرح العام الأولي / الاكتتاب العام الأولي",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s10, s16",
+   "note": "Two renderings are in use. Instructor to choose.",
+   "context": {
+    "type": "example",
+    "text": "Companies sell shares typically to gain additional money to grow the company."
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "capital",
+   "ar": "رأس المال",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s16",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "dividend(s)",
+   "ar": "توزيعات الأرباح",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s10–12, s16",
+   "note": "P1 s16 spells it DIVIDENTS. Entry normalised to “dividend”.",
+   "context": {
+    "type": "definition",
+    "text": "a portion of the company’s earnings paid to shareholders"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "earnings / profit",
+   "ar": "الأرباح",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s10, s16",
+   "note": "P1 s10 equates the two: “earnings, or profits”.",
+   "context": {
+    "type": "example",
+    "text": "driven by expectations of the corporation’s earnings, or profits"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "common stock",
+   "ar": "الأسهم العادية",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "entitles owners to vote at shareholder meetings and receive dividends"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "preferred stock",
+   "ar": "الأسهم الممتازة",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s11",
+   "note": "Another rendering (المفضلة) is also used. Confirm.",
+   "context": {
+    "type": "definition",
+    "text": "receive dividend payments before common stockholders do"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "voting rights",
+   "ar": "حقوق التصويت",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "growth stocks",
+   "ar": "أسهم النمو",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "earnings growing at a faster rate than the market average"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "income stocks",
+   "ar": "أسهم الدخل",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s12",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "pay dividends consistently"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "value stocks",
+   "ar": "أسهم القيمة",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s12",
+   "note": "P1 s12 body reads “stock shave” (typo).",
+   "context": {
+    "type": "definition",
+    "text": "a low price-to-earnings (PE) ratio"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "blue-chip stocks",
+   "ar": "الأسهم القيادية",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s12",
+   "note": "Confirm established term.",
+   "context": {
+    "type": "definition",
+    "text": "shares in large, well-known companies with a solid history of growth"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "price-to-earnings (PE) ratio",
+   "ar": "نسبة السعر إلى الأرباح",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s12",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "capital gains",
+   "ar": "الأرباح الرأسمالية",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s13",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "long-term capital gains",
+   "ar": "الأرباح الرأسمالية طويلة الأجل",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s13",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "Lower tax rates on long-term capital gains"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "capital appreciation",
+   "ar": "ارتفاع قيمة رأس المال",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s11",
+   "note": "Confirm wording.",
+   "context": {
+    "type": "example",
+    "text": "investors buy them in the hope of capital appreciation"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "appreciation / depreciation",
+   "ar": "ارتفاع القيمة / انخفاض القيمة",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s16",
+   "note": "Sense depends on context (asset depreciation vs. fall in value).",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "bankrupt / bankruptcy",
+   "ar": "مفلس / إفلاس",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11, s14, s16",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "if the company goes bankrupt and its assets are liquidated"
+   }
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "liquidate (assets)",
+   "ar": "تصفية الأصول",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "supply and demand",
+   "ar": "العرض والطلب",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s16",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "invest / investor / investment",
+   "ar": "يستثمر / مستثمر / استثمار",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s16",
+   "note": "Compare course pair استثمار قصير الأجل.",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "start-up",
+   "ar": "شركة ناشئة",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s11, s16",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "utility company",
+   "ar": "شركة مرافق عامة",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s12",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Stock market and investing",
+   "en": "risk(s)",
+   "ar": "المخاطر",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s14, CR",
+   "note": "CR title: الفرص والمخاطر.",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "Muscat Stock Exchange (MSX)",
+   "ar": "بورصة مسقط",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "the official financial market for trading securities and equities"
+   }
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "Muscat Securities Market",
+   "ar": "سوق مسقط للأوراق المالية",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "closed joint-stock company",
+   "ar": "شركة مسقط للبورصة (ش.م.ع.ع)",
+   "status": "S",
+   "flagged": true,
+   "source": "MSX",
+   "note": "English says “closed”. The Arabic abbreviation normally means a public joint-stock company. See Review tab.",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "financial market",
+   "ar": "السوق المالي",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "Sultanate of Oman",
+   "ar": "سلطنة عُمان",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "trading sessions",
+   "ar": "جلسات التداول",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "English adds “Official” and “daily”.",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "trading hours",
+   "ar": "ساعات التداول",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "MSX30 Index",
+   "ar": "مؤشر MSX30",
+   "status": "S",
+   "flagged": true,
+   "source": "MSX",
+   "note": "The two versions describe it differently. See Review tab.",
+   "context": {
+    "type": "example",
+    "text": "tracks the top 30 most liquid stocks"
+   }
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "market indicators",
+   "ar": "مؤشرات السوق",
+   "status": "S",
+   "flagged": true,
+   "source": "MSX",
+   "note": "English heading is singular: “Main Indicator”.",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "authorized brokerage firm",
+   "ar": "شركة وساطة مرخصة",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "Arabic is plural: شركات الوساطة المرخصة.",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "trading account",
+   "ar": "حساب تداول",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "registration documents",
+   "ar": "مستندات التسجيل",
+   "status": "S",
+   "flagged": false,
+   "source": "MSX",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Muscat Stock Exchange",
+   "en": "real-time price updates",
+   "ar": "متابعة الأسعار لحظياً",
+   "status": "S",
+   "flagged": true,
+   "source": "MSX",
+   "note": "Arabic also mentions the official website. English mentions only the app.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "financial landscape",
+   "ar": "المشهد المالي",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "digital assets",
+   "ar": "الأصول الرقمية",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "price fluctuations",
+   "ar": "تقلبات الأسعار",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "niche hobby",
+   "ar": "هواية لفئة محدودة / اهتمام مقتصر على فئة معينة",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "Two options in source.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "mainstream finance",
+   "ar": "القطاع المالي العام",
+   "status": "C",
+   "flagged": true,
+   "source": "CR",
+   "note": "العام can read as “public sector”. Confirm it conveys “mainstream”.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "decentralized",
+   "ar": "لا مركزي",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "The Arabic text uses the noun form اللامركزية.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "continuous accessibility",
+   "ar": "التوافر المستمر / إمكانية الوصول المتواصلة",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "Two options in source.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "constant vigilance",
+   "ar": "اليقظة الدائمة / الحذر المستمر",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "Two options in source.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "core mechanisms",
+   "ar": "الآليات الأساسية",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "cryptocurrency exchanges",
+   "ar": "بورصات العملات المشفرة أو منصات التداول",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "Two options in source.",
+   "context": {
+    "type": "example",
+    "text": "online platforms known as cryptocurrency exchanges"
+   }
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "trading pairs",
+   "ar": "أزواج التداول",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "Transactions are carried out via trading pairs, such as Bitcoin against the US Dollar"
+   }
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "extreme volatility",
+   "ar": "التقلب الشديد",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "notorious for their extreme volatility"
+   }
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "regulatory news",
+   "ar": "الأخبار التنظيمية",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "social media speculation",
+   "ar": "المضاربات عبر وسائل التواصل الاجتماعي",
+   "status": "C",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "cryptocurrency trading",
+   "ar": "تداول العملات المشفرة",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "From the title.",
+   "context": {
+    "type": "definition",
+    "text": "buying and selling digital currencies to profit from short-term price fluctuations"
+   }
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "cryptocurrency",
+   "ar": "العملات المشفرة",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "digital currencies",
+   "ar": "العملات الرقمية",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "traders",
+   "ar": "المتداولون",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "execute orders",
+   "ar": "تنفيذ الأوامر",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "Arabic: لتنفيذ أوامرهم.",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "Bitcoin",
+   "ar": "البيتكوين",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "US Dollar",
+   "ar": "الدولار الأمريكي",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "volatility",
+   "ar": "التقلب / تقلبات",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "high returns",
+   "ar": "العوائد المرتفعة",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "technological updates",
+   "ar": "التحديثات التقنية",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Cryptocurrency trading",
+   "en": "strict business hours",
+   "ar": "ساعات عمل رسمية صارمة",
+   "status": "S",
+   "flagged": false,
+   "source": "CR",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "job market",
+   "ar": "سوق العمل",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2, s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "employ",
+   "ar": "يوظّف",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "employment",
+   "ar": "التوظيف / العمل",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s2, s8, s9; MK",
+   "note": "Sense varies: “employment measures”, “employment system”. MK has “employment chances”.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "unemployment insurance",
+   "ar": "التأمين ضد البطالة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2, s8",
+   "note": "s2 lists “insurance” alone. s8 reads “unemployment insurance”.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "unemployment",
+   "ar": "البطالة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3, s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "mitigate",
+   "ar": "يخفف / التخفيف من",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2, s8",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "to mitigate the impact of the financial crisis on the unemployed"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "financial crisis",
+   "ar": "الأزمة المالية",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2, s8",
+   "note": "s2 spells it “Finanical”.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "cope with",
+   "ar": "التعامل مع / مواجهة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "subsidy",
+   "ar": "الدعم / الإعانة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "rationalization",
+   "ar": "الترشيد",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s2",
+   "note": "Cost-rationalization sense assumed. P1 s4 uses the same word in Berman’s translation-theory sense.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "employability",
+   "ar": "القابلية للتوظيف",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "recruitment",
+   "ar": "الاستقطاب / التعيين",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "downsizing / workforce reduction",
+   "ar": "تقليص العمالة",
+   "status": "S",
+   "flagged": true,
+   "source": "EM s2, s6, s7; P1 s2",
+   "note": "Arabic is from the P1 s2 article headline. P1 s2 lists “Workforce reduction/ downsizing” as one item. EM s6 also uses “downsizing” for personal life (a smaller home).",
+   "context": {
+    "type": "definition",
+    "text": "the intentional process of reducing the scale, size, or complexity of an organization"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "deregulation",
+   "ar": "رفع القيود التنظيمية",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "sack",
+   "ar": "الفصل من العمل",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3",
+   "note": "Informal in English. Same Arabic as “dismissal”.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "tenure",
+   "ar": "الاستقرار الوظيفي",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s3",
+   "note": "Context-dependent (job security, length of service, academic tenure).",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "measures",
+   "ar": "الإجراءات / التدابير",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s3, s8",
+   "note": "EM s4 uses the word in another sense (“performance measures”). Not translated here because s4 is an exercise.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "initiative",
+   "ar": "مبادرة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3, s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "payable",
+   "ar": "مستحق الدفع",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "job position",
+   "ar": "المنصب الوظيفي / الوظيفة",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3, s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "wage(s)",
+   "ar": "الأجر / الأجور",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s3, s9",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "wage costs",
+   "ar": "تكاليف الأجور",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s9",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "labor flexibility",
+   "ar": "مرونة العمل",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s3, s9",
+   "note": "Confirm whether مرونة سوق العمل is preferred.",
+   "context": {
+    "type": "example",
+    "text": "labor flexibility, wage costs, and unemployment"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "labor force / workforce",
+   "ar": "القوى العاملة",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s3, s9, s10; P1 s2",
+   "note": "P1 s2 Arabic uses العمالة (in تقليص العمالة). Confirm one term.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "laid off",
+   "ar": "تسريح العمال",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s7",
+   "note": "Text: “permanently laid off”.",
+   "context": {
+    "type": "example",
+    "text": "More than one million people are permanently laid off each year"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "redundancy",
+   "ar": "التسريح بسبب فائض العمالة",
+   "status": "AI",
+   "flagged": true,
+   "source": "EM s10",
+   "note": "UK legal sense. Confirm wording.",
+   "context": {
+    "type": "definition",
+    "text": "a form of dismissal from your job"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "redundancy pay",
+   "ar": "تعويض التسريح",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s10",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "notice period",
+   "ar": "فترة الإشعار",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s10",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "dismissal",
+   "ar": "الفصل من العمل",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s10",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "termination of service",
+   "ar": "إنهاء الخدمات",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s2",
+   "note": "Arabic appears in the slide’s article text.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "General Federation of Oman Workers",
+   "ar": "الاتحاد العام لعمال سلطنة عمان",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s2",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "report",
+   "ar": "تقرير",
+   "status": "S",
+   "flagged": false,
+   "source": "P1 s2",
+   "note": "The article text has التقرير السنوي.",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "operational restructuring",
+   "ar": "إعادة الهيكلة التشغيلية",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s6",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "reduce costs",
+   "ar": "خفض التكاليف",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s6",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "financial objectives",
+   "ar": "الأهداف المالية",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "employment system",
+   "ar": "نظام التوظيف",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s9",
+   "note": "",
+   "context": {
+    "type": "definition",
+    "text": "the interaction of various formative institutions"
+   }
+  },
+  {
+   "topic": "Employment and labour",
+   "en": "industrial relations",
+   "ar": "علاقات العمل",
+   "status": "AI",
+   "flagged": false,
+   "source": "EM s9",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "marketing",
+   "ar": "التسويق",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "Marketing is an important part in organizational activities"
+   }
+  },
+  {
+   "topic": "Marketing",
+   "en": "organization",
+   "ar": "المنظمة / المؤسسة",
+   "status": "AI",
+   "flagged": true,
+   "source": "MK",
+   "note": "Confirm preferred term.",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "organizational activities",
+   "ar": "أنشطة المنظمة",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "products",
+   "ar": "المنتجات",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "services",
+   "ar": "الخدمات",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "Compare course pair خدمات مالية.",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "customers / consumers",
+   "ar": "العملاء / المستهلكون",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "MK writes “customers/consumers”. BEA uses العملاء for “clients”.",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "needs / ambitions",
+   "ar": "الاحتياجات / الطموحات",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "MK writes “ambitions/needs”.",
+   "context": null
+  },
+  {
+   "topic": "Marketing",
+   "en": "employment chances",
+   "ar": "فرص العمل",
+   "status": "AI",
+   "flagged": true,
+   "source": "MK",
+   "note": "“Chances” is the source wording. Usual English is “opportunities”. Kept as written.",
+   "context": {
+    "type": "example",
+    "text": "Marketing also can offer employment chances"
+   }
+  },
+  {
+   "topic": "Marketing",
+   "en": "create jobs",
+   "ar": "توفير الوظائف",
+   "status": "AI",
+   "flagged": false,
+   "source": "MK",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "financial audit",
+   "ar": "التدقيق المالي",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "legal contract",
+   "ar": "العقد القانوني",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "cross-border acquisition",
+   "ar": "الاستحواذ عبر الحدود",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "clause",
+   "ar": "بند",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": {
+    "type": "example",
+    "text": "a dense, intentionally opaque clause hiding tax liabilities"
+   }
+  },
+  {
+   "topic": "Business case studies",
+   "en": "tax liabilities",
+   "ar": "الالتزامات الضريبية",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "risk-free debt",
+   "ar": "دين خالٍ من المخاطر",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "close the deal",
+   "ar": "إتمام الصفقة",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s7",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "global marketing campaign",
+   "ar": "حملة تسويقية عالمية",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "localization",
+   "ar": "التوطين",
+   "status": "AI",
+   "flagged": true,
+   "source": "P1 s8",
+   "note": "In Gulf usage, التوطين often means nationalizing jobs. Confirm, or use توطين المحتوى.",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "luxury brand",
+   "ar": "علامة تجارية فاخرة",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s8",
+   "note": "",
+   "context": null
+  },
+  {
+   "topic": "Business case studies",
+   "en": "slogan",
+   "ar": "الشعار الإعلاني",
+   "status": "AI",
+   "flagged": false,
+   "source": "P1 s8",
+   "note": "",
+   "context": null
+  }
+ ],
+ "review": [
+  {
+   "title": "MSX overview: Arabic and English differ (nothing corrected)",
+   "items": [
+    "Founding date: Arabic gives 21 June 1988; English gives only “June 1988”.",
+    "Company form: English says “closed joint-stock company (MSX)” in 2021; Arabic says شركة مسقط للبورصة (ش.م.ع.ع), an abbreviation that normally means a public joint-stock company.",
+    "The year 2021 appears only in English. The Arabic phrase ضمن تطوير قطاع أسواق المال (as part of developing the capital markets sector) has no English counterpart.",
+    "English adds “(bonds and stocks)” after “securities and equities”; Arabic has only الأوراق المالية والأسهم.",
+    "Trading hours: English adds “Official” and “daily”.",
+    "MSX30: Arabic calls it the main measure of movement of “active stocks” (الأسهم النشطة); English says it tracks “the top 30 most liquid stocks” and links to an external site. Headings differ: مؤشرات السوق (plural) vs “Main Indicator”.",
+    "Price monitoring: Arabic says smart app or official website; English says official MSX app only.",
+    "Heading: تأسيس السوق (establishment of the market) vs “Market History”."
+   ]
+  },
+  {
+   "title": "Cryptocurrency Trading.docx",
+   "items": [
+    "The English text ends the BTC/USD example without the closing bracket; the Arabic has it. The last Arabic sentence has no full stop."
+   ]
+  },
+  {
+   "title": "Banking files",
+   "items": [
+    "Two Arabic renderings of “interest rate”: سعر الفائدة (BEA) and معدل الفائدة (BAE).",
+    "BEA runs English to Arabic; the BAE table runs Arabic to English."
+   ]
+  },
+  {
+   "title": "Instruction mismatch",
+   "items": [
+    "P1 s9 says “Translate from Arabic to English” and s10 is headed “Translate Between Arabic to English”, but the s10 passage is in English."
+   ]
+  },
+  {
+   "title": "Source typos (left as written)",
+   "items": [
+    "EM s2 “Finanical”; EM s7 “fall to reach”, “eleminated”, “fofr”, “icreased”; EM s8 “posititions”; EM s9 “requlations”, “institutions making comprise”; P1 s12 “stock shave”; P1 s16 “DIVIDENTS” (entry normalised to “dividend”)."
+   ]
+  },
+  {
+   "title": "Not included",
+   "items": [
+    "Islamic Banking.docx: no text could be read.",
+    "EM s4: the Arabic sentences are exercises with errors and no answer key; not used as evidence.",
+    "EM s5 (video) and the P1 s2 link: not accessible.",
+    "Translation-theory terms (deontology, Berman, Venuti): not business terminology."
+   ]
+  }
+ ]
+}
